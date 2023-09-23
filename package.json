@@ -17,7 +17,7 @@
     "gridsome": "^0.7.0",
     "gridsome-plugin-i18n": "^1.6.0",
     "gridsome-plugin-netlify-cms": "^1.0.9",
-    "netlify-cms": "^2.10.78",
+    "netlify-cms": "^2.10.192",
     "particles.vue": "^2.1.11",
     "vue": "^2.6.12",
     "vue-owl-carousel": "^2.0.3",
