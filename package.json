@@ -13,7 +13,7 @@
     "@gridsome/transformer-remark": "^0.6.4",
     "bootstrap": "^4.5.3",
     "bootstrap-vue": "^2.19.0",
-    "cloudinary-vue": "^1.1.2",
+    "cloudinary-vue": "^1.2.4",
     "gridsome": "^0.7.0",
     "gridsome-plugin-i18n": "^1.6.0",
     "gridsome-plugin-netlify-cms": "^1.0.9",
